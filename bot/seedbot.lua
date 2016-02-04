@@ -219,6 +219,7 @@ function create_config( )
     "arabic_lock",
     "Plugins",
     "xyxy",
+    "spam",
     "mainfucker",
     "set",
     "get",
